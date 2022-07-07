@@ -139,6 +139,9 @@ h1 {
   .number {
     margin-bottom: -5%;
   }
+  header {
+    height: 50vh;
+  }
   .again {
     width: 150px;
     top: -1rem;
@@ -148,6 +151,7 @@ h1 {
   }
   .between {
     font-size: 2.4rem;
+    margin-top: 10rem;
   }
   .guess {
     width: 20rem;
