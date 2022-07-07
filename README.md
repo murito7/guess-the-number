@@ -1,0 +1,2 @@
+This repo is about a guess the number game. There you can select a number between 1 and 20 and the goal is to guess the number. Every time you type a number the programm will tell you if the number you checked is lower or higher than the mysterious number. Also, you have a score starting at 20 and everytime you fail to guess the number the score is going to decrease by 1. Highscore is another feature of the game. Тhe less attempts you use to guess the number the higher is going to be your highscore. 
+Enjoy the game :)
